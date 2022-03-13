@@ -1,9 +1,9 @@
 # My Curriculum Vitae
 ## __Dzmitry Kalasouski__ 
 ## __Contacts__
-   1. **tel.** +48-511-588-827
-   2. **mail** dmikol1325@gmail.com
-   3. **skype** monte-kristo2712
+**tel.** +48-511-588-827
+**mail** dmikol1325@gmail.com
+**skype** monte-kristo2712
 ## __About Me__
 For me, this is a great opportunity to learn what I like. **My goal is to become a programmer**. I want to work in this area and enjoy my work. I quickly learn and improve my skills.
 ## __Skills__
